@@ -1,7 +1,7 @@
 #app.py 
 
-a=7
-b=3
+a=70
+b=30
 
 def add(x,y):
     return x + y
